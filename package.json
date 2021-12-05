@@ -1,0 +1,36 @@
+{
+  "name": "javascript-promises",
+  "version": "1.0.0",
+  "description": "Understanding, using, and handling errors with javascript promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6f5/javascript-promises.git"
+  },
+  "keywords": [
+    "javascript",
+    "promises",
+    "javascript",
+    "promise",
+    "javascript",
+    "using",
+    "promises",
+    "javascript",
+    "promise",
+    "error",
+    "handling",
+    "handling",
+    "promise",
+    "errors",
+    "javascript"
+  ],
+  "author": "Abdulla Saeed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/6f5/javascript-promises/issues"
+  },
+  "homepage": "https://github.com/6f5/javascript-promises#readme"
+}
