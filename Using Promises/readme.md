@@ -8,6 +8,8 @@
 
 # The Promise Specification
 
+[Promises A+ Spec](https://promisesaplus.com/)
+
 ```js
 let promise = new Promise(...);
 promise.then(...);
@@ -28,7 +30,7 @@ promise.finally(...);
 
 - .then() is the most commonly used method of promises.
 
-- .then() is passes a function.
+- .then() is passed a function.
 
 - When the promise resolves, the function is executed.
 
